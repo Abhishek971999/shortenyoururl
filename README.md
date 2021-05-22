@@ -1,10 +1,10 @@
-### Shrturl
+### Shortenyoururl
 
 Simple CLI tool to shorten URL
 
 ## 🚀 Installation
 ```shell
-npm i -g shrturl
+npm i -g shortenyoururl
 ```
 
 ## 📈 Usage
@@ -12,5 +12,5 @@ npm i -g shrturl
 Shortens your url. url is a required paremeter
 
 ```shell
-shrturl shorten <url>
+shortenyoururl shorten <url>
 ```
