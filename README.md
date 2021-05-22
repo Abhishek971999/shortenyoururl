@@ -1,0 +1,2 @@
+# shrturl
+shrturl cli
