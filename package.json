@@ -1,0 +1,29 @@
+{
+  "name": "shrturl",
+  "version": "1.0.0",
+  "description": "Simple CLI tool to shorten URLs",
+  "main": "src/cli.js",
+  "preferGlobal": true,
+  "bin": "src/cli.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "shrturl",
+    "url",
+    "url shortener",
+    "cli"
+  ],
+  "bugs": {
+    "url": "https://github.com/Abhishek971999/shrturl/issues"
+  },
+  "homepage": "https://github.com/Abhishek971999/shrturl#readme",
+  "author": "Abhishek Mogaveera",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "chalk": "^4.1.1",
+    "commander": "^7.2.0",
+    "dotenv": "^10.0.0"
+  }
+}
